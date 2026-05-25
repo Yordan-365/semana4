@@ -1,0 +1,10 @@
+Que las comunidades creen sus propias herramientas con tecnologías abiertas como http://Node.js les da 
+independencia real sobre sus proyectos. Al usar software libre evitan depender de empresas externas y 
+gastos en licencias, lo que abre la puerta para que más gente participe y aprenda.
+Con http://Node.js, que es ligero y fácil de usar, jóvenes y líderes pueden desarrollar plataformas para 
+su entorno: mapas de seguridad, sistemas de denuncias o redes de apoyo vecinal. Además, hay mucha 
+documentación y comunidad en línea para mejorar esas iniciativas.
+Esto también ayuda a frenar la desinformación. Las comunidades pueden crear espacios donde se verifiquen 
+noticias, se compartan alertas reales y se comunique información confiable adaptada a su contexto. Así se
+fortalece la participación, la transparencia y el uso de la tecnología para generar cambios positivos 
+desde lo local.
